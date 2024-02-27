@@ -1,0 +1,35 @@
+5 - Qual alternativa declara 'desconto' para que o seu valor nunca mude no código? 
+
+var desconto = 20; 
+
+let desconto = 20; 
+
+desconto = 20; 
+
+--> const desconto = 20;   <--
+
+
+
+7 - Quais os tipos de dados das variáveis abaixo? 
+
+ OBS.: considere a ordem em que as variáveis foram criadas 
+
+  
+
+ var verificador = 'true'; 
+
+var verificaAtivo = true; 
+
+var verificaUsuario = "false"; 
+
+var usuarioAtivo = false; 
+
+ 
+
+boolean, boolean, boolean, boolean 
+
+-->string, boolean, string, boolean <--
+
+boolean, boolean, string, boolean 
+
+string, string, string, string 
